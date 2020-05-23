@@ -1,0 +1,14 @@
+header{text-align:center;background-color:#3366ff;font-size:200%;border-style:solid;margin:2%;
+}
+
+nav{text-align:center;}
+
+a{color:white;background-color:#6600cc}
+
+#firstlink,#secondlink,#thirdlink,#fourthlink{background-color:#009933;}
+
+section{display:inline-block;width:30%;margin:1%;float:left}
+
+#fourthlink{clear:both;}
+
+table{display:inline-block;margin-right:10%;margin-left:0.5%;}
